@@ -1,0 +1,5 @@
+c:\users\hdmi\documents\visual studio 2010\Projects\Complex_Numbers\Complex_Numbers\bin\Debug\Complex_Numbers.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\Complex_Numbers\Complex_Numbers\bin\Debug\Complex_Numbers.pdb
+c:\users\hdmi\documents\visual studio 2010\Projects\Complex_Numbers\Complex_Numbers\obj\x86\Debug\Complex_Numbers.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\Complex_Numbers\Complex_Numbers\obj\x86\Debug\Complex_Numbers.pdb
+C:\Users\hdmi\documents\visual studio 2010\Projects\Complex_Numbers\Complex_Numbers\obj\x86\Debug\Complex_Numbers.csprojResolveAssemblyReference.cache
